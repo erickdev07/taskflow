@@ -19,3 +19,5 @@ Não é necessário instalar dependências nem configurar servidor.
 
 ## Armazenamento
 As tarefas são salvas no `localStorage` do navegador. Portanto, ficam neste navegador e dispositivo. Limpar os dados do navegador pode apagá-las. Esta versão não possui conta, sincronização em nuvem ou backup automático.
+
+projeto em andamento
